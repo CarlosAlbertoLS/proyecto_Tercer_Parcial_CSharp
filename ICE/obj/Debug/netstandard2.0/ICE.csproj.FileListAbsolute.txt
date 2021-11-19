@@ -1,0 +1,15 @@
+C:\Users\toxic\source\repos\ICE\ICE\bin\Debug\netstandard2.0\ICE.deps.json
+C:\Users\toxic\source\repos\ICE\ICE\bin\Debug\netstandard2.0\ICE.dll
+C:\Users\toxic\source\repos\ICE\ICE\bin\Debug\netstandard2.0\ref\ICE.dll
+C:\Users\toxic\source\repos\ICE\ICE\bin\Debug\netstandard2.0\ICE.pdb
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.csproj.AssemblyReference.cache
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.AssemblyInfoInputs.cache
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.AssemblyInfo.cs
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.csproj.CoreCompileInputs.cache
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.dll
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ref\ICE.dll
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.pdb
