@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Image Source="esime.png" Aspect="AspectFill"/>
-        <Button Text="Ingresar"/>
+        <Button Text="Ingresar" Clicked="btnpag1"/>
     </StackLayout>
 
 </ContentPage>

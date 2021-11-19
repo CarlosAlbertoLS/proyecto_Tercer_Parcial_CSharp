@@ -14,5 +14,11 @@ namespace ICE
         {
             InitializeComponent();
         }
+
+        async private void btnpag1(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page1());
+            
+        }
     }
 }

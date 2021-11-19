@@ -13,3 +13,4 @@ C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.dll
 C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ref\ICE.dll
 C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\ICE.pdb
+C:\Users\toxic\source\repos\ICE\ICE\obj\Debug\netstandard2.0\Page1.xaml.g.cs
